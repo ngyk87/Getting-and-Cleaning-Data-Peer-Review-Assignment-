@@ -1,4 +1,4 @@
-#ngyk87
+#Author-ngyk87
 #
 # Getting-and-Cleaning-Data-Peer-Review-Assignment-
 Coursera Getting and Cleaning Data Peer Review Assignment
